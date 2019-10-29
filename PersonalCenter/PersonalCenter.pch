@@ -1,0 +1,21 @@
+//
+//  PersonalCenter.pch
+//  PersonalCenter
+//
+//  Created by 颜仁浩 on 2019/10/29.
+//  Copyright © 2019 颜仁浩. All rights reserved.
+//
+
+#ifndef PersonalCenter_pch
+#define PersonalCenter_pch
+
+#import "UIView+Jie.h"
+#import "Const.h"
+#import "Macro.h"
+
+
+
+#import <Masonry.h>
+#import <MJRefresh.h>
+
+#endif /* PersonalCenter_pch */
